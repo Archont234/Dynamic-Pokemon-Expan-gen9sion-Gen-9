@@ -6331,12 +6331,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_OINKOLOGNE] =
 	{
 		.size = 0x0,
-		.y_offset = 0x9,
+		.y_offset = 0xc,
 	},
 	[SPECIES_OINKOLOGNE_FEMALE] =
 	{
 		.size = 0x0,
-		.y_offset = 0x9,
+		.y_offset = 0xc,
 	},
 	[SPECIES_TAROUNTULA] =
 	{
@@ -6441,12 +6441,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_NACLSTACK] =
 	{
 		.size = 0x0,
-		.y_offset = 0xc,
+		.y_offset = 0x10,
 	},
 	[SPECIES_GARGANACL] =
 	{
 		.size = 0x0,
-		.y_offset = 0xb,
+		.y_offset = 0xe,
 	},
 	[SPECIES_CHARCADET] =
 	{
@@ -6486,12 +6486,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_MASCHIFF] =
 	{
 		.size = 0x0,
-		.y_offset = 0xa,
+		.y_offset = 0x13,
 	},
 	[SPECIES_MABOSSTIFF] =
 	{
 		.size = 0x0,
-		.y_offset = 0xc,
+		.y_offset = 0xd,
 	},
 	[SPECIES_SHROODLE] =
 	{
@@ -6751,7 +6751,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_SCREAM_TAIL] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0xa,
 	},
 	[SPECIES_BRUTE_BONNET] =
 	{
@@ -6766,12 +6766,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_SLITHER_WING] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x5,
 	},
 	[SPECIES_SANDY_SHOCKS] =
 	{
 		.size = 0x0,
-		.y_offset = 0x2,
+		.y_offset = 0x4,
 	},
 	[SPECIES_ROARING_MOON] =
 	{
@@ -6781,7 +6781,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_IRON_TREADS] =
 	{
 		.size = 0x0,
-		.y_offset = 0x5,
+		.y_offset = 0x9,
 	},
 	[SPECIES_IRON_BUNDLE] =
 	{
@@ -6886,17 +6886,17 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_POLTCHAGEIST] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x5,
 	},
 	[SPECIES_POLTCHAGEIST_ARTISAN] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x5,
 	},
 	[SPECIES_SINISTCHA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x3,
+		.y_offset = 0x4,
 	},
 	[SPECIES_SINISTCHA_MASTERPIECE] =
 	{
@@ -6971,17 +6971,17 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_TERAPAGOS] =
 	{
 		.size = 0x0,
-		.y_offset = 0x9,
+		.y_offset = 0x7,
 	},
 	[SPECIES_TERAPAGOS_TERASTAL] =
 	{
 		.size = 0x0,
-		.y_offset = 0xa,
+		.y_offset = 0x10,
 	},
 	[SPECIES_TERAPAGOS_STELLAR] =
 	{
 		.size = 0x0,
-		.y_offset = 0x6,
+		.y_offset = 0x10,
 	},
 	[SPECIES_PECHARUNT] =
 	{
