@@ -99,6 +99,7 @@ enum
 #define TYPE_ROOSTLESS 0x13
 #define TYPE_BLANK	  0x14
 #define TYPE_FAIRY	  0x17
+#define TYPE_STELLAR  0x18
 
 //tera type (aún no disponible)
 //#define TYPE_STELLAR  0x18
