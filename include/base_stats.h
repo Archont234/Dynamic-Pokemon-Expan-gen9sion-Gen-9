@@ -100,7 +100,7 @@ enum
 #define TYPE_BLANK	  0x14
 #define TYPE_FAIRY	  0x17
 #define TYPE_SOUND 0x18
-#define TYPE_MYSTIC 0x19
+#define TYPE_COSMIC 0x19
 #define TYPE_LIGHT 0x1A
 
 //tera type (aún no disponible)
