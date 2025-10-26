@@ -1436,4 +1436,5 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_DURALUDON_GIGA] =       gIconSpriteGigaDuraludonTiles,
 	[SPECIES_URSHIFU_SINGLE_GIGA] =  gIconSpriteGigaUrshifuSingleTiles,
 	[SPECIES_URSHIFU_RAPID_GIGA] =   gIconSpriteGigaUrshifuRapidTiles,
+	[SPECIES_KOFFING_G] = gIconSpriteKoffingGTiles,
 };

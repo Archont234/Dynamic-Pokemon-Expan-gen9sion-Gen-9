@@ -7160,4 +7160,10 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
+
+	[SPECIES_KOFFING_G] =
+	{
+		.size = 0x0,
+		.y_offset = 0x2,
+	},
 };

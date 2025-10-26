@@ -1675,6 +1675,7 @@ extern const u8 DEX_ENTRY_GRIMER_A[];
 extern const u8 DEX_ENTRY_MUK_A[];
 extern const u8 DEX_ENTRY_EXEGGUTOR_A[];
 extern const u8 DEX_ENTRY_MAROWAK_A[];
+extern const u8 DEX_ENTRY_KOFFING_G[];
 extern const u8 DEX_ENTRY_WEEZING_G[];
 extern const u8 DEX_ENTRY_MR_MIME_G[];
 extern const u8 DEX_ENTRY_ARTICUNO_G[];
